@@ -1,0 +1,17 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "c3".(þ†–áùÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "c2".(…ÿ»Ù
+L
+java:S1854"6Remove this useless assignment to local variable "c1".(‰‹žµ
+=
+java:S1481"'Remove this unused "c1" local variable.(‰‹žµ
+=
+java:S1481"'Remove this unused "c2" local variable.(…ÿ»Ù
+B
+java:S1481"'Remove this unused "c3" local variable.(þ†–áùÿÿÿÿ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "white" 3 times.(‰‹žµ
+_
+java:S1192"IDefine a constant instead of duplicating this literal "Nanum:12" 3 times.(‰‹žµ

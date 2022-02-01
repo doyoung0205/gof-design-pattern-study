@@ -1,0 +1,25 @@
+
+K
+java:S1854	"6Remove this useless assignment to local variable "c5".(ÿ»æ
+Q
+java:S1854"6Remove this useless assignment to local variable "c4".(Ô‰’Õüÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "c3".(Š¾€
+L
+java:S1854"6Remove this useless assignment to local variable "c2".(Âû²‰
+L
+java:S1854"6Remove this useless assignment to local variable "c1".(’±’¦
+=
+java:S1481"'Remove this unused "c1" local variable.(’±’¦
+=
+java:S1481"'Remove this unused "c2" local variable.(Âû²‰
+=
+java:S1481"'Remove this unused "c3" local variable.(Š¾€
+B
+java:S1481"'Remove this unused "c4" local variable.(Ô‰’Õüÿÿÿÿ
+<
+java:S1481	"'Remove this unused "c5" local variable.(ÿ»æ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "white" 5 times.(’±’¦
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Nanum" 5 times.(’±’¦
