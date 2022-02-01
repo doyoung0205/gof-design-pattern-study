@@ -1,0 +1,15 @@
+package me.doyoung.gof.bridge;
+
+// 게임 캐릭터
+public interface Champion {
+
+    void move();
+
+    void skillQ();
+
+    void skillW();
+
+    void skillE();
+
+    void skillR();
+}
