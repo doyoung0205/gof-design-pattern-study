@@ -41,3 +41,9 @@ c
 3src/main/java/me/doyoung/gof/bridge/after/Skin.java,e/a/eab03cfc1b47f41b8af1e656d6cb9b311dbccae7
 b
 2src/main/java/me/doyoung/gof/bridge/after/App.java,1/3/13377451b075b3a67c4eaac57e36d43f857daf72
+A
+docs/flyweight.md,9/8/98f80647249f0ae406f1e828fa81f1050ac89c23
+a
+1src/main/java/me/doyoung/gof/bridge/Champion.java,f/3/f399f0fb023cc78b3cf4c542dfa82ab482ebbbbd
+n
+>src/main/java/me/doyoung/gof/flyweight/java/FlyweightJava.java,1/2/122f8c9c15fc93c62e484ce6a6f058816af1c00b
